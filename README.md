@@ -1,16 +1,6 @@
 # Win11React
 
-[![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
-[![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/blueedgetechno)
-[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NcjaNdwtnR)
-[![Build & Deploy](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml/badge.svg)](https://github.com/blueedgetechno/win11React/actions/workflows/Build-Deploy.yml)
-[![PR Preview](https://github.com/blueedgetechno/win11React/actions/workflows/pr-preview.yml/badge.svg)](https://github.com/blueedgetechno/win11React/actions/workflows/PR-Preview.yml)
-![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
-[![Translate](https://badges.crowdin.net/win11react/localized.svg)](https://translate.win11react.com/)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blueedgetechno)
-
-This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
+This project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
 ## Notice
 
@@ -24,8 +14,6 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 https://win11react-docs.andrewstech.me/
 
 ## _This project is still a work in progress._
-
-#### Live Experience🌈: [win11.blueedge.me](https://win11.blueedge.me)
 
 ![Home](./public/img/home.jpg)
 
@@ -87,13 +75,6 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 ![Answer](./public/answer.png)
 
-## 🌟 Star this project
-
-### [⏫ Scroll to the ⭐️ button](#start-of-content)
-
-If you believe this project has potential, feel free to **star this repo** just like many amazing people have 👇
-![](https://user-images.githubusercontent.com/89068816/188550244-3cd2bca6-7135-418f-9dcd-25ea6bd96d5f.gif)
-
 ## Local Deployment
 
 # Docker
@@ -129,12 +110,6 @@ If you have one of the latest windows builds then you can enter the command belo
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/blueedgetechno/win11React)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fblueedgetechno%2Fwindows11%2F&project-name=windows11&repo-name=windows11-react&demo-title=Windows%2011%20Demo&demo-description=Static&demo-url=https%3A%2F%2Fwin11.blueedge.me%2F)
-
-## Contributors
-
-<a href="https://github.com/blueedgetechno/win11React/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=blueedgetechno/win11React" />
-</a>
 
 ### Known Issues
 
