@@ -10,9 +10,6 @@ This project is made in the hope to replicate the Windows 11 desktop experience 
 **THIS IS NOT THE APP STORE REPO**:
 [App Store](https://github.com/win11react/store)
 
-**Documentation**:
-https://win11react-docs.andrewstech.me/
-
 ## _This project is still a work in progress._
 
 ![Home](./public/img/home.jpg)
